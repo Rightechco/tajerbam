@@ -1,0 +1,12 @@
+node_modules/ 
+.nuxt/ 
+dist/ 
+.output/ 
+.env 
+.env.local 
+build/ 
+*/build/ 
+*.pkg 
+*.exe 
+__pycache__/ 
+*.pyc
